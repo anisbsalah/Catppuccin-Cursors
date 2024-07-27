@@ -5,10 +5,10 @@
 * Install `git` first:
 
 ```bash
-### On debian based distros:
+### On Debian based distros:
 sudo apt install git
 
-### On ArchLinux:
+### On Arch Linux:
 sudo pacman -S git
 ```
 
